@@ -11,6 +11,12 @@
 // about supported directives.
 //
 //= require jquery
+//= require bootstrap-sprockets
 //= require jquery_ujs
-//= require turbolinks
+//= require holder
+//= require bootstrap/alert
+//= require ckeditor/init
+//= require underscore
+//= require gmaps/google
 //= require_tree .
+//= require gravtastic
